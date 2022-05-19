@@ -1,24 +1,3 @@
-## ❓ ABOUT ME
-
-<details>
-  <summary>Click to expand</summary>
-
-
-- 👋 Hi, I’m @IAmWalker83542
-- 👀 I’m interested in Coding & Gaming & Discord server designer.
-- 🌱 I’m currently learning Js & Python & C/C++.
-- 💞️ I’m looking to collaborate on Discord.
-
-- 🤔 Are you tried up to make your own discord server. Then what are your wating for Join us.
-- 🌐 Making free discord servers.
-- 🌐 Custom Server , Server clone , Gaming Server , Fun server , Test Server , Many More . Join us get a server for your self
-- 📫 How to reach me Just Send Me Friend Request On My Discord Name IAmWalker83542#5042
-- 📮 Join us to get free for you [TN DEVELOPMENT](https://dsc.gg/tn.dev "TN DEVELOPMENT.").
-[![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
-
-</details>
-
-
 ## Important notes and thank ❤️
 First of all, thanks for using our Temples, it was and is a ton of work to create and maintain it!
 That's why I'm asking everyone to [**donate a little bit of money**](https://www.paypal.me/iamvamshikrishna) or if that's not possible, then join my [Discord Server](https://discord.gg/QeNpH78X8M)!
@@ -80,6 +59,28 @@ What are you waiting for? Join our Server now!:
 > 
 > 💠 》Website Link : [TN DEVELOPMENT](https://tn-dev-in.mystrikingly.com "TN DEVELOPMENT")
 
+[![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
+
+
+</details>
+
+## ❓ About Me.
+
+<details>
+  <summary>Click to expand</summary>
+
+
+- 👋 Hi, I’m @IAmWalker83542
+- 👀 I’m interested in Coding & Gaming & Discord server designer.
+- 🌱 I’m currently learning Js & Python & C/C++.
+- 💞️ I’m looking to collaborate on Discord.
+
+- 🤔 Are you tried up to make your own discord server. Then what are your wating for Join us.
+- 🌐 Making free discord servers.
+- 🌐 Custom Server , Server clone , Gaming Server , Fun server , Test Server , Many More . Join us get a server for your self
+- 📫 How to reach me Just Send Me Friend Request On My Discord Name IAmWalker83542#5042
+- 📮 Join us to get free for you [TN DEVELOPMENT](https://dsc.gg/tn.dev "TN DEVELOPMENT.").
+[![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
 
 </details>
 
