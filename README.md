@@ -1,11 +1,9 @@
-## Important notes and thank ❤️
-First of all, thanks for using our Temples, it was and is a ton of work to create and maintain it!
-That's why I'm asking everyone to [**donate a little bit of money**](https://www.paypal.me/iamvamshikrishna) or if that's not possible, then join my [Discord Server](https://discord.gg/QeNpH78X8M)!
+## Your Text Here ❤️
+Your Text Here
 
+## Your Text here
 
-## 🙏 SUPPORT ME AND TN  DEVELOPMENT
-
-> You can always Support me by using one of my **own Discord server templates**
+> Your **Text Here**
 
 [![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
 
