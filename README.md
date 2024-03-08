@@ -32,6 +32,6 @@ Your Text Here
 - 💞️ I’m looking to collaborate on Discord
 </details>
 
-## ✌️ Credits
+## ✌️ Credits/Imformation/Etc...
 
 > Your, Text [Hyperlink](Link "Text")
