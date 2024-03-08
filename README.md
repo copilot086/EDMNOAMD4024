@@ -13,51 +13,8 @@ Your Text Here
   <summary>Click to expand</summary>
 
   1. Your Text Here [Hyperlinks]("") --> link here
-     * either by: `Join our discord server and contact team`
-     * If you need a server for free then what are you waiting? Join us [TN DEVELOPMENT](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
-  
-2. [**TN DEVELOPMENT**](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
-
-**Informations about the Server:**
-
-> - Server Shop where you can order Discord Server for your community.
-> - You can pay with a Free Option means Invites
-> - Extreme server creation & Vip Access.
-> - Cheap Prices
-> - Good Team and fast Support
-
-
-What we offer:
-
-> 📄 》**Free Discord Server**
-> 
-> 📇 》Different kinds of Servers & Custom Server.
-> 
-> ⚙️ 》Custom Discord Server & Custom Templates
-> 
-> 🔗 》Server Clones
-> 
-> 📮 》Trail server visit
-> 
-> 🤝 》Partnerships with other Servers
-> 
-> 💠 》Booster and Donator Perks
-> 
-> 📌 》Promotion Channels
-> 
-> 👨‍🔧 》Friendly and competent Staff Team
-> 
-> 🎉 》Weekly Giveaways
-
-
-
-What are you waiting for? Join our Server now!:
-
-> 💠》Server Link : [TN DEVELOPMENT](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
-> 
-> 💠 》Website Link : [TN DEVELOPMENT](https://tn-dev-in.mystrikingly.com "TN DEVELOPMENT")
-
-[![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
+     * Text: `Highlight Text`
+[![Hyper Link](image link1)](link or url2 "Text")
 
 
 </details>
