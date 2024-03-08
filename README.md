@@ -5,14 +5,14 @@ Your Text Here
 
 > Your **Text Here**
 
-[![2022's Best Discord server who makes discord servers for free | TN DEVELOPMENT](https://media.discordapp.net/attachments/909704554105434112/916615170669830184/unknown.png)](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
+[![Your Text Here]("")  --> image link
 
-## 🌐 About us.
+## Your Text Here.
 
 <details>
   <summary>Click to expand</summary>
 
-  1. Download the [Server Templates](https://xenon.bot/users/770661065293299713 "Server Templates")
+  1. Your Text Here [Hyperlinks]("") --> link here
      * either by: `Join our discord server and contact team`
      * If you need a server for free then what are you waiting? Join us [TN DEVELOPMENT](https://discord.gg/QeNpH78X8M "TN DEVELOPMENT")
   
